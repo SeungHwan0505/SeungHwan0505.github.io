@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "202237909 김승환"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "깃허브 블로그입니다."
+  location         : "가천대학교 글로벌캠퍼스"
   email            :
   links:
     - label: "Email"
